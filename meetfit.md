@@ -90,13 +90,27 @@ __Условия исследования.__
 ```
 Hello there!
 
-  I'm currently seeking an online fitness trainer that can provide personalized 1:1 video sessions using Zoom or another similar technology. I was hoping to contact you and plan a brief 15-minute orientation meeting on Zoom at a time that works for you.
+  I'm currently seeking an online fitness trainer that can provide personalized 1:1 video sessions using Zoom or another similar technology. 
+I was hoping to contact you and plan a brief 15-minute orientation meeting on Zoom at a time that works for you.
 
   Being a newcomer to the gym scene and having a sedentary profession, I'm keen to increase my flexibility and general fitness levels.
 I feel that working with a professional trainer like you would be the best way for me to achieve my goals!
 
 Thank you so much for taking the time to read my message. I'm thrilled to hear back from you soon!
 ```
+Сообщение отправил  отобранным тренерам, но после второй отправки получил бан от системы.
+Создал второй аккаунт с чистой историей.
+ После второго сообщение был  получен бан уже и на второй аккаунт.
+Обратился в службу поддержки со второго аккаунта по поводу бана 1 аккаунта.
+  Поддержка долгое время делала вид, что ничего не понимает, ссылаясь на недопустимость 2х аккаунтов у одного пользователя. Операторы поддержки менялись, но вопрос не разрешался. В конце концов, поддержка признала ошибку системы, извинились и предложили скидку в 10%.
+  **Вывод по работе службы поддержки.**
+Предельно формальное отношение, абсолютно не клиентоориентирована - считает клиента изначально неправым, не предлагает никаких путей для разрешения ситуации, недружелюбна.
+Параллельно с перепиской со службой поддержки был создан третий аккаунт, с которого удалось коммуницировать с тренерами.
+  Общение происходило в чате на сайте, инструкторы отвечали быстро, были дружелюбны и сразу предлагали другие способы коммуникации GSM связь или видеозвонок. Опасений со стороны платформы по поводу выхода общения клиентов за рамки платформы тренера не испытывали, хотя и были об этом осведомлены.
+  В результате трёх бесед с тренерами были назначены два ознакомительных занятия (смотри ссылки). Один из тренеров из Пакистана работал исключительно с женщинами, поэтому ознакомительной встречи не было, ограничились только беседой в чате на сайте.
+
+Вывод по доступности тренеров.
+Тренеры находятся в контакте на сайте, отвечают очень быстро. Никакой поддержки со стороны платформы для промоушена их услуг нет. В одном из диалогов, за 6 минут, от начала общения, было назначено время для тестового занятия.
 
 ## 4. [FLEXIT](https://flexit.fit/)
 ![FLEXIT](https://flexit.fit/assets/images/logos/flexit-logo-horizontal-2-color-black.svg)
