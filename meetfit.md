@@ -36,8 +36,8 @@ __Условия исследования.__
 
  Мы применяли качественные методы исследования, такие как интервью и анализ данных, для получения персонального опыта пользователей и оценки качества предоставляемых услуг.
  
-##  https://mywowfit.com
 ![myWOWFit Global](https://static.tildacdn.com/tild6434-3634-4135-b363-306566393831/min.png)
+##  1. [myWOWFit Global](https://mywowfit.com)
 
   Сразу после регистрации, со мной при помощи Whatsapp, связялся представитель myWOWFit Global - Helen. После короткого интро (https://bit.ly/myWOWFit - Chat with myWOWFit Global), и уточнения моих пожеланий, мне был предоставлен выбор из 3-х тренеров, подходящих под мои требования:
 - Duncan https://mywowfit.com/duncan
