@@ -81,5 +81,5 @@ __Условия исследования.__
 
 
 ## 5. [WRKout](https://wrkout.com)
-<img src="https://assets-global.website-files.com/6287f44f1948ae5a35bf9448/6287f44f1948aecd3cbf9611_wrkout-wordmark-color-p-500.png" width="200>
+<img src="https://assets-global.website-files.com/6287f44f1948ae5a35bf9448/6287f44f1948aecd3cbf9611_wrkout-wordmark-color-p-500.png" width="200">
 
