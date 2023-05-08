@@ -66,7 +66,7 @@ __Условия исследования.__
 ![TRAINERIZE.me](https://file.trainerize.com/assets/tzme/images/tz-me-logo-white.png)
 
 ## 3. [Feverr](https://www.fiverr.com/)
-![Feverr](https://images.app.goo.gl/i3GXTUgy1Fvcwh9K6)
+![Feverr](https://1000logos.net/wp-content/uploads/2017/08/Font-Fiverr-Logo-768x276.jpg)
 
 ## 4. [](https://flexit.fit/)
 ![]()
