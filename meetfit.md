@@ -86,7 +86,8 @@ __Условия исследования.__
 
 Результатом поиска стал shortlist из шести тренеров из разных стран и разной специализации.
 Был составлен запрос, который по моему мнению и последующей проверкой специализированными сервисами, был бы благоприятно воспринят потенциальными тренерами.
-<code>
+
+```
 Hello there!
 
   I'm currently seeking an online fitness trainer that can provide personalized 1:1 video sessions using Zoom or another similar technology. I was hoping to contact you and plan a brief 15-minute orientation meeting on Zoom at a time that works for you.
@@ -95,7 +96,7 @@ Hello there!
 I feel that working with a professional trainer like you would be the best way for me to achieve my goals!
 
 Thank you so much for taking the time to read my message. I'm thrilled to hear back from you soon!
-</code>
+```
 
 ## 4. [FLEXIT](https://flexit.fit/)
 ![FLEXIT](https://flexit.fit/assets/images/logos/flexit-logo-horizontal-2-color-black.svg)
