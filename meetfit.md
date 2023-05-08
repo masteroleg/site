@@ -69,12 +69,16 @@ __Условия исследования.__
 
 
 ## 3. [Feverr](https://www.fiverr.com/)
-![Feverr](https://1000logos.net/wp-content/uploads/2017/08/Font-Fiverr-Logo-768x276.jpg)
 <img src="https://1000logos.net/wp-content/uploads/2017/08/Font-Fiverr-Logo-768x276.jpg" width="200">
 
-## 4. [](https://flexit.fit/)
-![]()
+
+
+## 4. [FLEXIT](https://flexit.fit/)
+![FLEXIT](https://flexit.fit/assets/images/logos/flexit-logo-horizontal-2-color-black.svg)
+
+
 
 
 ## 5. [](https://wrkout.com)
-![]()
+![WRKOut](https://assets-global.website-files.com/6287f44f1948ae5a35bf9448/6287f44f1948aecd3cbf9611_wrkout-wordmark-color-p-500.png)
+
