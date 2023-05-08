@@ -27,8 +27,8 @@ __Условия исследования.__
   В результате был сформирован список сайтов для проведения ознакомительной тренировки или интервью (приведен в порядке обработки
 
   1. https://mywowfit.com
-  2. https://www.trainerize.me
-  3. https://www.fiverr.com/
-  4. https://flexit.fit/
-  5. https://wrkout.com
+  1. https://www.trainerize.me
+  1. https://www.fiverr.com/
+  1. https://flexit.fit/
+  1. https://wrkout.com
 
