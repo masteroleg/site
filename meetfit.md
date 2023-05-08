@@ -62,11 +62,14 @@ __Условия исследования.__
 
 
 
-https://www.trainerize.me
+## 2. [TRAINERIZE.me](https://www.trainerize.me)
+![TRAINERIZE.me](https://file.trainerize.com/assets/tzme/images/tz-me-logo-white.png)
 
-https://www.fiverr.com/
+## 3. [Feverr](https://www.fiverr.com/)
+![Feverr](https://images.app.goo.gl/i3GXTUgy1Fvcwh9K6)
 
-https://flexit.fit/
+## 4. [](https://flexit.fit/)
+![]()
 
-https://wrkout.com
-
+## 5. [](https://wrkout.com)
+![]()
