@@ -1,6 +1,4 @@
-![image](https://github.com/masteroleg/site/assets/14860606/25acabe9-a8fb-406d-8c34-1565ce3ba1be)![image](https://github.com/masteroleg/site/assets/14860606/ba05cb9f-0041-48dc-98f2-70420fc63b8c)![image](https://github.com/masteroleg/site/assets/14860606/0df2f073-2642-4952-aac7-2c4e645ca953)![image](https://github.com/masteroleg/site/assets/14860606/0cb7cb6b-5d11-499f-81d9-0d3761fbd57b)![image](https://github.com/masteroleg/site/assets/14860606/78e43d58-5dae-48f9-a111-4e03846349ba)![image](https://github.com/masteroleg/site/assets/14860606/adb7a14f-7009-4584-807e-d7b94f6b1b2d)![image](https://github.com/masteroleg/site/assets/14860606/00e55318-8baf-4f36-8a9a-643e1faf4665)![image](https://github.com/masteroleg/site/assets/14860606/dce192c6-531c-4c5f-b824-5fbc1e7b1c42)![image](https://github.com/masteroleg/site/assets/14860606/c36ccd3a-05d7-42e0-8ed6-eb105e66abba)![image](https://github.com/masteroleg/site/assets/14860606/3bc75ea6-dcad-43f5-a613-0830bc762dca)![image](https://github.com/masteroleg/site/assets/14860606/b785ad2b-a520-4523-be68-25b36ef1866d)
-![image](https://github.com/masteroleg/site/assets/14860606/a5361972-5d16-400c-96c2-819fbfeb0ee4)![image](https://github.com/masteroleg/site/assets/14860606/5c2d60a2-1d5f-4c77-a428-189f3e5bae7e)![image](https://github.com/masteroleg/site/assets/14860606/f3ad1bbb-d5b6-45b0-9874-430558d7e0e3)![image](https://github.com/masteroleg/site/assets/14860606/db009054-8483-4bc3-b6e0-12e5b4a7435c)![image](https://github.com/masteroleg/site/assets/14860606/41537059-3361-464d-a0b0-0e3b6c8e98ac)![image](https://github.com/masteroleg/site/assets/14860606/03af4eb2-89bb-4979-9018-d35e49c72884)![image](https://github.com/masteroleg/site/assets/14860606/102023f4-03f0-4fbb-859c-7697e39403c0)![image](https://github.com/masteroleg/site/assets/14860606/0abed879-8db4-44f1-aa39-78a7f9e2281f)
-![image](https://github.com/masteroleg/site/assets/14860606/8dec6749-b7d1-44ef-bcf3-960b454ce4cb)![image](https://github.com/masteroleg/site/assets/14860606/bd6b3bb7-2491-48a4-8df9-97fa507935ed)![image](https://github.com/masteroleg/site/assets/14860606/fa6c1551-bb8a-457e-b391-30cc4ee81b73)![image](https://github.com/masteroleg/site/assets/14860606/ad7c56de-eeeb-4550-92e8-a466d33713bc)![image](https://github.com/masteroleg/site/assets/14860606/885c2df7-6a4c-47a5-ac53-7d8976e40177)Общий обзор проекта
+Общий обзор проекта
 Тracevit-Pro - развитие проекта Тracevit, ориентированный на профессиональных потребителей, включая фермерские хозяйства, агрохолдинги и другие аналогичные структуры
 
 - Повышает эффективность производства
@@ -97,7 +95,7 @@ Ethernet-коммутатор
 
 ГРАФІК ЕТАПІВ
 Черга| Вміст робіт
---+--
+--|--
 I | Розробка ПЗ (лейблер, пакер, майстер)
   |  Замовлення обладнання, 12-15 тижнів
   |Розгортання стенду: лейблер, пакер (Київ)
